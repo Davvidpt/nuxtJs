@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    margin-left: 50px;
+}
+header {
+    color :blue;
+    height: 10vh;
+} 
+.gambar {
+height: 80vh;
+width : 100dvw;
+}
+footer{
+    height: 5vh;
+    color: blue ;
+}
+.bg{
+background-color:white;
+height: 75vh;
+width : 100dvw;
+
+}
+.gambar {
+    height: 30%;
+    width: 50%;
+    background-color: orange;
+}
+.tulis {
+    margin-left: 50%;
+    margin-top: -20%;
+    margin-bottom: 10%;
+    margin-right: 5% ;
+    
+}
